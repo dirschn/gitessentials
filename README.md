@@ -1,11 +1,6 @@
-# gitessentials
+# Git Essentials / Git For Everybody
 
-## Deployment notes
-Jesse is sitting near me.
+> This is a course to teach you how to use everyday git.
 
-## Staging notes
-I am starting to get hungry.
+Course created by Kalob Taulien.
 
-## Some New Stuff in the README
-
-Lorem ipsum
